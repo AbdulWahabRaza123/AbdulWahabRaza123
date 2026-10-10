@@ -14,6 +14,12 @@
 - 🚀 Passionate about building scalable web apps  
 - 🌱 Currently improving backend & system design  
 
+
+---
+
+### Featured project
+
+- **[YT Video Downloader](https://ytubevideodownloader.com/)** — Free browser-based YouTube MP4/MP3 downloader ([repo](https://github.com/AbdulWahabRaza123/ytubevideodownloader))
 ---
 
 ### 🛠️ Languages and Tools
